@@ -1,4 +1,4 @@
-name = input("name :")
+"""name = input("name :")
 print(name)
 age = int(input("age :"))
 print(age)
@@ -10,3 +10,5 @@ b = input("b .")
 print(a,b)
 #print(not True andFalse or True)
 print("Basic input data")
+print("all")"""
+print("New chapter")
