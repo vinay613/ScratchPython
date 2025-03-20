@@ -1,10 +1,11 @@
-print("vinayrawat")
-print("bioinformatics")
-print("vinayrawat")
-print("basic python")
-a = 10
-c = 12
-b = 'vinay'
-print("hello")
+name = input("name :")
+print(name)
+age = int(input("age :"))
+print(age)
+print("your name", name, "your age", age)
+a,b = 2,1
+print(a**b)
+a = input("a .")
+b = input("b .")
 print(a,b)
-print(a+c)
+#print(not True andFalse or True)
